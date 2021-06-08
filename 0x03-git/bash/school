@@ -1,1 +1,2 @@
-echoe "ALX"
+#!/bin/bash
+echoe "school is open"
